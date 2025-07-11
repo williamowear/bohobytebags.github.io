@@ -1,5 +1,5 @@
 ---
-title: Boho Byte Bags
+title: ""
 ---
 
 # 🌿 Handmade threads for wired minds 
