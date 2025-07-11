@@ -1,4 +1,9 @@
-remote_theme: jirrian/jekyll-theme-image-grid@main
+remote_theme: "mmistakes/minimal-mistakes@4.26.0"
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
+
+title: "Boho Byte Bags"
+logo: "/assets/img/logo.png"
