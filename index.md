@@ -2,8 +2,7 @@
 title: Boho Byte Bags
 ---
 
-# 🌿 Boho Byte Bags  
-_Handmade threads for wired minds_
+# 🌿 Handmade threads for wired minds 
 
 Welcome to Boho Byte Bags — where textiles meet tech, and every stitch tells a story.
 
