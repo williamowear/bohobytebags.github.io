@@ -1,21 +1,4 @@
-# _config.yml
-title: "Boho Byte Bags"
-description: "Handmade threads for wired minds"
-url: "https://bohobytebags.com"
-baseurl: ""  # Important: leave blank for custom domain
-
-remote_theme: "tedivm/jekyll-theme-portfolio"
-
+remote_theme: jirrian/jekyll-theme-image-grid@main
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: default
-      css: /assets/css/style.css
