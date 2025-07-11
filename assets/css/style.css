@@ -4,3 +4,25 @@ body {
   background-size: auto; /* or try 'contain', 'cover', or specific values */
   background-attachment: fixed; /* optional: keeps the background still while scrolling */
 }
+.boho-header {
+  width: 100%;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;
+  background-color: #fff; /* or transparent */
+  overflow: hidden;
+}
+
+.boho-banner {
+  width: 100%;
+  max-width: 600px; /* Optional: limits size on desktop */
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .boho-banner {
+    max-width: 100%; /* Let it go full width on small screens */
+  }
+}
+
